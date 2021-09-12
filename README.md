@@ -1,2 +1,2 @@
 # Uranium Lib
-Credits to RandomAdamYT for lots of things
+Credits to RandomAdamYT for UI lib
